@@ -1,10 +1,5 @@
 # ⚡ Zenith AI — Multi-Persona Chatbot
 
-![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python)
-![Streamlit](https://img.shields.io/badge/Streamlit-1.40+-FF4B4B?logo=streamlit)
-![Gemini](https://img.shields.io/badge/Gemini-2.5%20Flash-4285F4)
-![License](https://img.shields.io/badge/License-MIT-green)
-
 **Zenith AI** is an intelligent chatbot built with Python, Streamlit, and Google Gemini 2.5 Flash for the **µLearn Build a Simple Chatbot Task (250 Karma Points)**.
 
 ## ✨ Features
@@ -47,10 +42,7 @@ Deploy for free using [Streamlit Community Cloud](https://share.streamlit.io/).
 
 **Febin Jacob**
 
-Built with ❤️ using Python, Streamlit & Google Gemini.
+Built with  using Python, Streamlit & Google Gemini.
 
 [µLearn Foundation](https://mulearn.org/) | [Google AI Studio](https://aistudio.google.com/)
 
----
-
-*Licensed under the MIT License.*
